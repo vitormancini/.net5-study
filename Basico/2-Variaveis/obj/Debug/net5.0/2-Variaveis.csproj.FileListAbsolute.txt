@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Basico1\2-Variaveis\bin\Debug\net5.0\2-Variaveis.exe
+C:\Cursos\.NET\Basico1\2-Variaveis\bin\Debug\net5.0\2-Variaveis.deps.json
+C:\Cursos\.NET\Basico1\2-Variaveis\bin\Debug\net5.0\2-Variaveis.runtimeconfig.json
+C:\Cursos\.NET\Basico1\2-Variaveis\bin\Debug\net5.0\2-Variaveis.runtimeconfig.dev.json
+C:\Cursos\.NET\Basico1\2-Variaveis\bin\Debug\net5.0\2-Variaveis.dll
+C:\Cursos\.NET\Basico1\2-Variaveis\bin\Debug\net5.0\ref\2-Variaveis.dll
+C:\Cursos\.NET\Basico1\2-Variaveis\bin\Debug\net5.0\2-Variaveis.pdb
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.AssemblyInfo.cs
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.dll
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\ref\2-Variaveis.dll
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.pdb
+C:\Cursos\.NET\Basico1\2-Variaveis\obj\Debug\net5.0\2-Variaveis.genruntimeconfig.cache

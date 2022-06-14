@@ -1,0 +1,16 @@
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\bin\Debug\net5.0\3-Namespace.exe
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\bin\Debug\net5.0\3-Namespace.deps.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\bin\Debug\net5.0\3-Namespace.runtimeconfig.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\bin\Debug\net5.0\3-Namespace.runtimeconfig.dev.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\bin\Debug\net5.0\3-Namespace.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\bin\Debug\net5.0\ref\3-Namespace.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\bin\Debug\net5.0\3-Namespace.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.csproj.AssemblyReference.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.AssemblyInfoInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.AssemblyInfo.cs
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\ref\3-Namespace.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\3-Namespace\obj\Debug\net5.0\3-Namespace.genruntimeconfig.cache

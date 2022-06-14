@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Collections\8-SortedList\bin\Debug\net5.0\8-SortedList.exe
+C:\Cursos\.NET\Collections\8-SortedList\bin\Debug\net5.0\8-SortedList.deps.json
+C:\Cursos\.NET\Collections\8-SortedList\bin\Debug\net5.0\8-SortedList.runtimeconfig.json
+C:\Cursos\.NET\Collections\8-SortedList\bin\Debug\net5.0\8-SortedList.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\8-SortedList\bin\Debug\net5.0\8-SortedList.dll
+C:\Cursos\.NET\Collections\8-SortedList\bin\Debug\net5.0\ref\8-SortedList.dll
+C:\Cursos\.NET\Collections\8-SortedList\bin\Debug\net5.0\8-SortedList.pdb
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.dll
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\ref\8-SortedList.dll
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.pdb
+C:\Cursos\.NET\Collections\8-SortedList\obj\Debug\net5.0\8-SortedList.genruntimeconfig.cache

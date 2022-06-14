@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\bin\Debug\net5.0\2-Data_Hora.exe
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\bin\Debug\net5.0\2-Data_Hora.deps.json
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\bin\Debug\net5.0\2-Data_Hora.runtimeconfig.json
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\bin\Debug\net5.0\2-Data_Hora.runtimeconfig.dev.json
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\bin\Debug\net5.0\2-Data_Hora.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\bin\Debug\net5.0\ref\2-Data_Hora.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\bin\Debug\net5.0\2-Data_Hora.pdb
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.AssemblyInfo.cs
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\ref\2-Data_Hora.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.pdb
+C:\Cursos\.NET\Validacoes CSharp Brasil\2-Data_Hora\obj\Debug\net5.0\2-Data_Hora.genruntimeconfig.cache

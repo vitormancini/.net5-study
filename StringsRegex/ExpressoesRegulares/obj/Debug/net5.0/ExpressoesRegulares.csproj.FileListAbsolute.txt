@@ -1,0 +1,16 @@
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\bin\Debug\net5.0\ExpressoesRegulares.exe
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\bin\Debug\net5.0\ExpressoesRegulares.deps.json
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\bin\Debug\net5.0\ExpressoesRegulares.runtimeconfig.json
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\bin\Debug\net5.0\ExpressoesRegulares.runtimeconfig.dev.json
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\bin\Debug\net5.0\ExpressoesRegulares.dll
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\bin\Debug\net5.0\ref\ExpressoesRegulares.dll
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\bin\Debug\net5.0\ExpressoesRegulares.pdb
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.csproj.AssemblyReference.cache
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.AssemblyInfoInputs.cache
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.AssemblyInfo.cs
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.dll
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ref\ExpressoesRegulares.dll
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.pdb
+C:\Users\Vitor_Mancini\Desktop\StringsRegex\ExpressoesRegulares\obj\Debug\net5.0\ExpressoesRegulares.genruntimeconfig.cache

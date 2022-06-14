@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\bin\Debug\net5.0\2-Array_Objetos.exe
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\bin\Debug\net5.0\2-Array_Objetos.deps.json
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\bin\Debug\net5.0\2-Array_Objetos.runtimeconfig.json
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\bin\Debug\net5.0\2-Array_Objetos.runtimeconfig.dev.json
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\bin\Debug\net5.0\2-Array_Objetos.dll
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\bin\Debug\net5.0\ref\2-Array_Objetos.dll
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\bin\Debug\net5.0\2-Array_Objetos.pdb
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.AssemblyInfo.cs
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.dll
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\ref\2-Array_Objetos.dll
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.pdb
+C:\Cursos\.NET\Arrays\Arrays\2-Array_Objetos\obj\Debug\net5.0\2-Array_Objetos.genruntimeconfig.cache

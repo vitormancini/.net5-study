@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Collections\4-Sets\bin\Debug\net5.0\4-Sets.exe
+C:\Cursos\.NET\Collections\4-Sets\bin\Debug\net5.0\4-Sets.deps.json
+C:\Cursos\.NET\Collections\4-Sets\bin\Debug\net5.0\4-Sets.runtimeconfig.json
+C:\Cursos\.NET\Collections\4-Sets\bin\Debug\net5.0\4-Sets.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\4-Sets\bin\Debug\net5.0\4-Sets.dll
+C:\Cursos\.NET\Collections\4-Sets\bin\Debug\net5.0\ref\4-Sets.dll
+C:\Cursos\.NET\Collections\4-Sets\bin\Debug\net5.0\4-Sets.pdb
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.dll
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\ref\4-Sets.dll
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.pdb
+C:\Cursos\.NET\Collections\4-Sets\obj\Debug\net5.0\4-Sets.genruntimeconfig.cache

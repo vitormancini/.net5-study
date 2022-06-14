@@ -1,0 +1,16 @@
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\bin\Debug\net5.0\4-Escrita_Leitura_Binaria.exe
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\bin\Debug\net5.0\4-Escrita_Leitura_Binaria.deps.json
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\bin\Debug\net5.0\4-Escrita_Leitura_Binaria.runtimeconfig.json
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\bin\Debug\net5.0\4-Escrita_Leitura_Binaria.runtimeconfig.dev.json
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\bin\Debug\net5.0\4-Escrita_Leitura_Binaria.dll
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\bin\Debug\net5.0\ref\4-Escrita_Leitura_Binaria.dll
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\bin\Debug\net5.0\4-Escrita_Leitura_Binaria.pdb
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.csproj.AssemblyReference.cache
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.AssemblyInfoInputs.cache
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.AssemblyInfo.cs
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.dll
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\ref\4-Escrita_Leitura_Binaria.dll
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.pdb
+C:\Cursos\.NET\FileStream\4-Escrita_Leitura_Binaria\obj\Debug\net5.0\4-Escrita_Leitura_Binaria.genruntimeconfig.cache

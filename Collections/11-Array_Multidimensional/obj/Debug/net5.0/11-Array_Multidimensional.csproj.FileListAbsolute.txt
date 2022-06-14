@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\bin\Debug\net5.0\11-Array_Multidimensional.exe
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\bin\Debug\net5.0\11-Array_Multidimensional.deps.json
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\bin\Debug\net5.0\11-Array_Multidimensional.runtimeconfig.json
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\bin\Debug\net5.0\11-Array_Multidimensional.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\bin\Debug\net5.0\11-Array_Multidimensional.dll
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\bin\Debug\net5.0\ref\11-Array_Multidimensional.dll
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\bin\Debug\net5.0\11-Array_Multidimensional.pdb
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.dll
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\ref\11-Array_Multidimensional.dll
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.pdb
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.genruntimeconfig.cache
+C:\Cursos\.NET\Collections\11-Array_Multidimensional\obj\Debug\net5.0\11-Array_Multidimensional.csproj.AssemblyReference.cache

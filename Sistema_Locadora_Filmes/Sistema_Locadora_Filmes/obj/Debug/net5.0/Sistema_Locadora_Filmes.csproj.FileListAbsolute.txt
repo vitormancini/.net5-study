@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\bin\Debug\net5.0\Sistema_Locadora_Filmes.exe
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\bin\Debug\net5.0\Sistema_Locadora_Filmes.deps.json
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\bin\Debug\net5.0\Sistema_Locadora_Filmes.runtimeconfig.json
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\bin\Debug\net5.0\Sistema_Locadora_Filmes.runtimeconfig.dev.json
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\bin\Debug\net5.0\Sistema_Locadora_Filmes.dll
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\bin\Debug\net5.0\ref\Sistema_Locadora_Filmes.dll
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\bin\Debug\net5.0\Sistema_Locadora_Filmes.pdb
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.AssemblyInfo.cs
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.dll
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\ref\Sistema_Locadora_Filmes.dll
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.pdb
+C:\Cursos\.NET\Sistema_Locadora_Filmes\Sistema_Locadora_Filmes\obj\Debug\net5.0\Sistema_Locadora_Filmes.genruntimeconfig.cache

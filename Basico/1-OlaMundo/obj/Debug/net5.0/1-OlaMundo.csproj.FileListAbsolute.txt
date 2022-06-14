@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Basico1\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.exe
+C:\Cursos\.NET\Basico1\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.deps.json
+C:\Cursos\.NET\Basico1\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.runtimeconfig.json
+C:\Cursos\.NET\Basico1\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.runtimeconfig.dev.json
+C:\Cursos\.NET\Basico1\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.dll
+C:\Cursos\.NET\Basico1\1-OlaMundo\bin\Debug\net5.0\ref\1-OlaMundo.dll
+C:\Cursos\.NET\Basico1\1-OlaMundo\bin\Debug\net5.0\1-OlaMundo.pdb
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.AssemblyInfo.cs
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.dll
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\ref\1-OlaMundo.dll
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.pdb
+C:\Cursos\.NET\Basico1\1-OlaMundo\obj\Debug\net5.0\1-OlaMundo.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+C:\Cursos\.NET\Collections\7-Fila\bin\Debug\net5.0\7-Fila.exe
+C:\Cursos\.NET\Collections\7-Fila\bin\Debug\net5.0\7-Fila.deps.json
+C:\Cursos\.NET\Collections\7-Fila\bin\Debug\net5.0\7-Fila.runtimeconfig.json
+C:\Cursos\.NET\Collections\7-Fila\bin\Debug\net5.0\7-Fila.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\7-Fila\bin\Debug\net5.0\7-Fila.dll
+C:\Cursos\.NET\Collections\7-Fila\bin\Debug\net5.0\ref\7-Fila.dll
+C:\Cursos\.NET\Collections\7-Fila\bin\Debug\net5.0\7-Fila.pdb
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\7-Fila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\7-Fila.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\7-Fila.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\7-Fila.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\7-Fila.dll
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\ref\7-Fila.dll
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\7-Fila.pdb
+C:\Cursos\.NET\Collections\7-Fila\obj\Debug\net5.0\7-Fila.genruntimeconfig.cache

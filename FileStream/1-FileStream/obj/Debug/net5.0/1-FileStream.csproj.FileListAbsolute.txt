@@ -1,0 +1,16 @@
+C:\Cursos\.NET\FileStream\1-FileStream\bin\Debug\net5.0\1-FileStream.exe
+C:\Cursos\.NET\FileStream\1-FileStream\bin\Debug\net5.0\1-FileStream.deps.json
+C:\Cursos\.NET\FileStream\1-FileStream\bin\Debug\net5.0\1-FileStream.runtimeconfig.json
+C:\Cursos\.NET\FileStream\1-FileStream\bin\Debug\net5.0\1-FileStream.runtimeconfig.dev.json
+C:\Cursos\.NET\FileStream\1-FileStream\bin\Debug\net5.0\1-FileStream.dll
+C:\Cursos\.NET\FileStream\1-FileStream\bin\Debug\net5.0\ref\1-FileStream.dll
+C:\Cursos\.NET\FileStream\1-FileStream\bin\Debug\net5.0\1-FileStream.pdb
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.csproj.AssemblyReference.cache
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.AssemblyInfoInputs.cache
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.AssemblyInfo.cs
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.dll
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\ref\1-FileStream.dll
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.pdb
+C:\Cursos\.NET\FileStream\1-FileStream\obj\Debug\net5.0\1-FileStream.genruntimeconfig.cache

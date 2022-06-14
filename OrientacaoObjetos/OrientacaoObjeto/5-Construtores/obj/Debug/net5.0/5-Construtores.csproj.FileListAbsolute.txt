@@ -1,0 +1,15 @@
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\bin\Debug\net5.0\5-Construtores.exe
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\bin\Debug\net5.0\5-Construtores.deps.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\bin\Debug\net5.0\5-Construtores.runtimeconfig.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\bin\Debug\net5.0\5-Construtores.runtimeconfig.dev.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\bin\Debug\net5.0\5-Construtores.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\bin\Debug\net5.0\ref\5-Construtores.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\bin\Debug\net5.0\5-Construtores.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\5-Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\5-Construtores.AssemblyInfoInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\5-Construtores.AssemblyInfo.cs
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\5-Construtores.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\5-Construtores.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\ref\5-Construtores.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\5-Construtores.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\5-Construtores\obj\Debug\net5.0\5-Construtores.genruntimeconfig.cache

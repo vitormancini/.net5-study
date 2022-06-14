@@ -1,0 +1,15 @@
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\bin\Debug\net5.0\7-Heranca_Interface1.exe
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\bin\Debug\net5.0\7-Heranca_Interface1.deps.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\bin\Debug\net5.0\7-Heranca_Interface1.runtimeconfig.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\bin\Debug\net5.0\7-Heranca_Interface1.runtimeconfig.dev.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\bin\Debug\net5.0\7-Heranca_Interface1.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\bin\Debug\net5.0\ref\7-Heranca_Interface1.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\bin\Debug\net5.0\7-Heranca_Interface1.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\7-Heranca_Interface1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\7-Heranca_Interface1.AssemblyInfoInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\7-Heranca_Interface1.AssemblyInfo.cs
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\7-Heranca_Interface1.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\7-Heranca_Interface1.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\ref\7-Heranca_Interface1.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\7-Heranca_Interface1.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\7-Heranca_Interface1\obj\Debug\net5.0\7-Heranca_Interface1.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Collections\6-Lista_Ligada\bin\Debug\net5.0\6-Lista_Ligada.exe
+C:\Cursos\.NET\Collections\6-Lista_Ligada\bin\Debug\net5.0\6-Lista_Ligada.deps.json
+C:\Cursos\.NET\Collections\6-Lista_Ligada\bin\Debug\net5.0\6-Lista_Ligada.runtimeconfig.json
+C:\Cursos\.NET\Collections\6-Lista_Ligada\bin\Debug\net5.0\6-Lista_Ligada.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\6-Lista_Ligada\bin\Debug\net5.0\6-Lista_Ligada.dll
+C:\Cursos\.NET\Collections\6-Lista_Ligada\bin\Debug\net5.0\ref\6-Lista_Ligada.dll
+C:\Cursos\.NET\Collections\6-Lista_Ligada\bin\Debug\net5.0\6-Lista_Ligada.pdb
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.dll
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\ref\6-Lista_Ligada.dll
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.pdb
+C:\Cursos\.NET\Collections\6-Lista_Ligada\obj\Debug\net5.0\6-Lista_Ligada.genruntimeconfig.cache

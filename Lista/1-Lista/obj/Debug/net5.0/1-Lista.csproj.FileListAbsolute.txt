@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Lista\1-Lista\bin\Debug\net5.0\1-Lista.exe
+C:\Cursos\.NET\Lista\1-Lista\bin\Debug\net5.0\1-Lista.deps.json
+C:\Cursos\.NET\Lista\1-Lista\bin\Debug\net5.0\1-Lista.runtimeconfig.json
+C:\Cursos\.NET\Lista\1-Lista\bin\Debug\net5.0\1-Lista.runtimeconfig.dev.json
+C:\Cursos\.NET\Lista\1-Lista\bin\Debug\net5.0\1-Lista.dll
+C:\Cursos\.NET\Lista\1-Lista\bin\Debug\net5.0\ref\1-Lista.dll
+C:\Cursos\.NET\Lista\1-Lista\bin\Debug\net5.0\1-Lista.pdb
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.AssemblyInfo.cs
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.dll
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\ref\1-Lista.dll
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.pdb
+C:\Cursos\.NET\Lista\1-Lista\obj\Debug\net5.0\1-Lista.genruntimeconfig.cache

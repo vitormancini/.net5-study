@@ -1,0 +1,15 @@
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\12-LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\12-LINQ.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\12-LINQ.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\12-LINQ.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\12-LINQ\bin\Debug\net5.0\12-LINQ.exe
+C:\Cursos\.NET\Collections\12-LINQ\bin\Debug\net5.0\12-LINQ.deps.json
+C:\Cursos\.NET\Collections\12-LINQ\bin\Debug\net5.0\12-LINQ.runtimeconfig.json
+C:\Cursos\.NET\Collections\12-LINQ\bin\Debug\net5.0\12-LINQ.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\12-LINQ\bin\Debug\net5.0\12-LINQ.dll
+C:\Cursos\.NET\Collections\12-LINQ\bin\Debug\net5.0\ref\12-LINQ.dll
+C:\Cursos\.NET\Collections\12-LINQ\bin\Debug\net5.0\12-LINQ.pdb
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\12-LINQ.dll
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\ref\12-LINQ.dll
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\12-LINQ.pdb
+C:\Cursos\.NET\Collections\12-LINQ\obj\Debug\net5.0\12-LINQ.genruntimeconfig.cache

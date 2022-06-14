@@ -1,0 +1,7 @@
+*Código C# -> Compilador gera uma aplicação MSIL (Microsoft Intermediate Language) ->
+A aplicação MSIL gerada pelo compilador é interpretada pela CLR (Common Language Runtime - máquina virtual) ->
+O compilador da CLR (just in time) é o responsável por transformar o código MSIL em código de máquina
+
+*Instalar o Visual Studio
+
+*Para programas console, criamos um projeto Console Application(.NET Framework)

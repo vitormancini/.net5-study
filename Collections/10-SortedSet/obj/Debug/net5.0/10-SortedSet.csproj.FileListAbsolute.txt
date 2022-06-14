@@ -1,0 +1,15 @@
+C:\Cursos\.NET\Collections\10-SortedSet\bin\Debug\net5.0\10-SortedSet.exe
+C:\Cursos\.NET\Collections\10-SortedSet\bin\Debug\net5.0\10-SortedSet.deps.json
+C:\Cursos\.NET\Collections\10-SortedSet\bin\Debug\net5.0\10-SortedSet.runtimeconfig.json
+C:\Cursos\.NET\Collections\10-SortedSet\bin\Debug\net5.0\10-SortedSet.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\10-SortedSet\bin\Debug\net5.0\10-SortedSet.dll
+C:\Cursos\.NET\Collections\10-SortedSet\bin\Debug\net5.0\ref\10-SortedSet.dll
+C:\Cursos\.NET\Collections\10-SortedSet\bin\Debug\net5.0\10-SortedSet.pdb
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\10-SortedSet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\10-SortedSet.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\10-SortedSet.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\10-SortedSet.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\10-SortedSet.dll
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\ref\10-SortedSet.dll
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\10-SortedSet.pdb
+C:\Cursos\.NET\Collections\10-SortedSet\obj\Debug\net5.0\10-SortedSet.genruntimeconfig.cache

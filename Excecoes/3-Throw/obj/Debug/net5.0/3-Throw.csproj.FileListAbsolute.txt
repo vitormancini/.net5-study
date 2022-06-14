@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\bin\Debug\net5.0\3-Throw.exe
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\bin\Debug\net5.0\3-Throw.deps.json
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\bin\Debug\net5.0\3-Throw.runtimeconfig.json
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\bin\Debug\net5.0\3-Throw.runtimeconfig.dev.json
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\bin\Debug\net5.0\3-Throw.dll
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\bin\Debug\net5.0\ref\3-Throw.dll
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\bin\Debug\net5.0\3-Throw.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.AssemblyInfo.cs
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.dll
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\ref\3-Throw.dll
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\3-Throw\obj\Debug\net5.0\3-Throw.genruntimeconfig.cache

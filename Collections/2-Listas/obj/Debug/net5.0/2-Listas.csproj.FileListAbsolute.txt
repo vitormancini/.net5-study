@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Collections\2-Listas\bin\Debug\net5.0\2-Listas.exe
+C:\Cursos\.NET\Collections\2-Listas\bin\Debug\net5.0\2-Listas.deps.json
+C:\Cursos\.NET\Collections\2-Listas\bin\Debug\net5.0\2-Listas.runtimeconfig.json
+C:\Cursos\.NET\Collections\2-Listas\bin\Debug\net5.0\2-Listas.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\2-Listas\bin\Debug\net5.0\2-Listas.dll
+C:\Cursos\.NET\Collections\2-Listas\bin\Debug\net5.0\ref\2-Listas.dll
+C:\Cursos\.NET\Collections\2-Listas\bin\Debug\net5.0\2-Listas.pdb
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.dll
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\ref\2-Listas.dll
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.pdb
+C:\Cursos\.NET\Collections\2-Listas\obj\Debug\net5.0\2-Listas.genruntimeconfig.cache

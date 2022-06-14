@@ -1,0 +1,15 @@
+C:\Cursos\.NET\Collections\5-Dicionarios\bin\Debug\net5.0\5-Dicionarios.exe
+C:\Cursos\.NET\Collections\5-Dicionarios\bin\Debug\net5.0\5-Dicionarios.deps.json
+C:\Cursos\.NET\Collections\5-Dicionarios\bin\Debug\net5.0\5-Dicionarios.runtimeconfig.json
+C:\Cursos\.NET\Collections\5-Dicionarios\bin\Debug\net5.0\5-Dicionarios.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\5-Dicionarios\bin\Debug\net5.0\5-Dicionarios.dll
+C:\Cursos\.NET\Collections\5-Dicionarios\bin\Debug\net5.0\ref\5-Dicionarios.dll
+C:\Cursos\.NET\Collections\5-Dicionarios\bin\Debug\net5.0\5-Dicionarios.pdb
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\5-Dicionarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\5-Dicionarios.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\5-Dicionarios.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\5-Dicionarios.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\5-Dicionarios.dll
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\ref\5-Dicionarios.dll
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\5-Dicionarios.pdb
+C:\Cursos\.NET\Collections\5-Dicionarios\obj\Debug\net5.0\5-Dicionarios.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2-Arquivo_para_Objeto/1.0.0": {
+        "runtime": {
+          "2-Arquivo_para_Objeto.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2-Arquivo_para_Objeto/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

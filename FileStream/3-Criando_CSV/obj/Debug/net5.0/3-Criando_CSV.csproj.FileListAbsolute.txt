@@ -1,0 +1,15 @@
+C:\Cursos\.NET\FileStream\3-Criando_CSV\bin\Debug\net5.0\3-Criando_CSV.exe
+C:\Cursos\.NET\FileStream\3-Criando_CSV\bin\Debug\net5.0\3-Criando_CSV.deps.json
+C:\Cursos\.NET\FileStream\3-Criando_CSV\bin\Debug\net5.0\3-Criando_CSV.runtimeconfig.json
+C:\Cursos\.NET\FileStream\3-Criando_CSV\bin\Debug\net5.0\3-Criando_CSV.runtimeconfig.dev.json
+C:\Cursos\.NET\FileStream\3-Criando_CSV\bin\Debug\net5.0\3-Criando_CSV.dll
+C:\Cursos\.NET\FileStream\3-Criando_CSV\bin\Debug\net5.0\ref\3-Criando_CSV.dll
+C:\Cursos\.NET\FileStream\3-Criando_CSV\bin\Debug\net5.0\3-Criando_CSV.pdb
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\3-Criando_CSV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\3-Criando_CSV.AssemblyInfoInputs.cache
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\3-Criando_CSV.AssemblyInfo.cs
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\3-Criando_CSV.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\3-Criando_CSV.dll
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\ref\3-Criando_CSV.dll
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\3-Criando_CSV.pdb
+C:\Cursos\.NET\FileStream\3-Criando_CSV\obj\Debug\net5.0\3-Criando_CSV.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\bin\Debug\net5.0\2-Metodos_Extensao.exe
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\bin\Debug\net5.0\2-Metodos_Extensao.deps.json
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\bin\Debug\net5.0\2-Metodos_Extensao.runtimeconfig.json
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\bin\Debug\net5.0\2-Metodos_Extensao.runtimeconfig.dev.json
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\bin\Debug\net5.0\2-Metodos_Extensao.dll
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\bin\Debug\net5.0\ref\2-Metodos_Extensao.dll
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\bin\Debug\net5.0\2-Metodos_Extensao.pdb
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.AssemblyInfo.cs
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.dll
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\ref\2-Metodos_Extensao.dll
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.pdb
+C:\Cursos\.NET\Lista\2-Metodos_Extensao\obj\Debug\net5.0\2-Metodos_Extensao.genruntimeconfig.cache

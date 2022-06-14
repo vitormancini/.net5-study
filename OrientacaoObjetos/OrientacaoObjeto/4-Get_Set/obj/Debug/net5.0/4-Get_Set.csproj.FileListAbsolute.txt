@@ -1,0 +1,16 @@
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\bin\Debug\net5.0\4-Get_Set.exe
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\bin\Debug\net5.0\4-Get_Set.deps.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\bin\Debug\net5.0\4-Get_Set.runtimeconfig.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\bin\Debug\net5.0\4-Get_Set.runtimeconfig.dev.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\bin\Debug\net5.0\4-Get_Set.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\bin\Debug\net5.0\ref\4-Get_Set.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\bin\Debug\net5.0\4-Get_Set.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.csproj.AssemblyReference.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.AssemblyInfoInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.AssemblyInfo.cs
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\ref\4-Get_Set.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\4-Get_Set\obj\Debug\net5.0\4-Get_Set.genruntimeconfig.cache

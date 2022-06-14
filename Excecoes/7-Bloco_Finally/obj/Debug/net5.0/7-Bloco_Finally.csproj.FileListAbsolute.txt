@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\bin\Debug\net5.0\7-Bloco_Finally.exe
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\bin\Debug\net5.0\7-Bloco_Finally.deps.json
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\bin\Debug\net5.0\7-Bloco_Finally.runtimeconfig.json
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\bin\Debug\net5.0\7-Bloco_Finally.runtimeconfig.dev.json
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\bin\Debug\net5.0\7-Bloco_Finally.dll
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\bin\Debug\net5.0\ref\7-Bloco_Finally.dll
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\bin\Debug\net5.0\7-Bloco_Finally.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.AssemblyInfo.cs
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.dll
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\ref\7-Bloco_Finally.dll
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\7-Bloco_Finally\obj\Debug\net5.0\7-Bloco_Finally.genruntimeconfig.cache

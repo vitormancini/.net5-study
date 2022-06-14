@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Collections\1-Arrays\bin\Debug\net5.0\1-Arrays.exe
+C:\Cursos\.NET\Collections\1-Arrays\bin\Debug\net5.0\1-Arrays.deps.json
+C:\Cursos\.NET\Collections\1-Arrays\bin\Debug\net5.0\1-Arrays.runtimeconfig.json
+C:\Cursos\.NET\Collections\1-Arrays\bin\Debug\net5.0\1-Arrays.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\1-Arrays\bin\Debug\net5.0\1-Arrays.dll
+C:\Cursos\.NET\Collections\1-Arrays\bin\Debug\net5.0\ref\1-Arrays.dll
+C:\Cursos\.NET\Collections\1-Arrays\bin\Debug\net5.0\1-Arrays.pdb
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.dll
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\ref\1-Arrays.dll
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.pdb
+C:\Cursos\.NET\Collections\1-Arrays\obj\Debug\net5.0\1-Arrays.genruntimeconfig.cache

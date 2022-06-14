@@ -1,0 +1,15 @@
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\bin\Debug\net5.0\6-Membros_Estaticos.exe
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\bin\Debug\net5.0\6-Membros_Estaticos.deps.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\bin\Debug\net5.0\6-Membros_Estaticos.runtimeconfig.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\bin\Debug\net5.0\6-Membros_Estaticos.runtimeconfig.dev.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\bin\Debug\net5.0\6-Membros_Estaticos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\bin\Debug\net5.0\ref\6-Membros_Estaticos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\bin\Debug\net5.0\6-Membros_Estaticos.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\6-Membros_Estaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\6-Membros_Estaticos.AssemblyInfoInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\6-Membros_Estaticos.AssemblyInfo.cs
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\6-Membros_Estaticos.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\6-Membros_Estaticos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\ref\6-Membros_Estaticos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\6-Membros_Estaticos.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\6-Membros_Estaticos\obj\Debug\net5.0\6-Membros_Estaticos.genruntimeconfig.cache

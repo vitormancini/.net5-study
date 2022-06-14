@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\bin\Debug\net5.0\4-Criando_Excecoes.exe
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\bin\Debug\net5.0\4-Criando_Excecoes.deps.json
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\bin\Debug\net5.0\4-Criando_Excecoes.runtimeconfig.json
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\bin\Debug\net5.0\4-Criando_Excecoes.runtimeconfig.dev.json
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\bin\Debug\net5.0\4-Criando_Excecoes.dll
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\bin\Debug\net5.0\ref\4-Criando_Excecoes.dll
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\bin\Debug\net5.0\4-Criando_Excecoes.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.AssemblyInfo.cs
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.dll
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\ref\4-Criando_Excecoes.dll
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\4-Criando_Excecoes\obj\Debug\net5.0\4-Criando_Excecoes.genruntimeconfig.cache

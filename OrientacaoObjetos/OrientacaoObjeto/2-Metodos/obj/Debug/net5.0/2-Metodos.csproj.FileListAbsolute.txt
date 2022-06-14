@@ -1,0 +1,16 @@
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\bin\Debug\net5.0\2-Metodos.exe
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\bin\Debug\net5.0\2-Metodos.deps.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\bin\Debug\net5.0\2-Metodos.runtimeconfig.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\bin\Debug\net5.0\2-Metodos.runtimeconfig.dev.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\bin\Debug\net5.0\2-Metodos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\bin\Debug\net5.0\ref\2-Metodos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\bin\Debug\net5.0\2-Metodos.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.csproj.AssemblyReference.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.AssemblyInfoInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.AssemblyInfo.cs
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\ref\2-Metodos.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\2-Metodos\obj\Debug\net5.0\2-Metodos.genruntimeconfig.cache

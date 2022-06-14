@@ -1,0 +1,16 @@
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.csproj.AssemblyReference.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.AssemblyInfoInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.AssemblyInfo.cs
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\bin\Debug\net5.0\9-Classe_Abstrata.exe
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\bin\Debug\net5.0\9-Classe_Abstrata.deps.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\bin\Debug\net5.0\9-Classe_Abstrata.runtimeconfig.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\bin\Debug\net5.0\9-Classe_Abstrata.runtimeconfig.dev.json
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\bin\Debug\net5.0\9-Classe_Abstrata.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\bin\Debug\net5.0\ref\9-Classe_Abstrata.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\bin\Debug\net5.0\9-Classe_Abstrata.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\ref\9-Classe_Abstrata.dll
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.pdb
+C:\Cursos\.NET\OrientacaoObjetos\OrientacaoObjeto\9-Classe_Abstrata\obj\Debug\net5.0\9-Classe_Abstrata.genruntimeconfig.cache

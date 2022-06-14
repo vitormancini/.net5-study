@@ -1,0 +1,16 @@
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\bin\Debug\net5.0\2-Arquivo_para_Objeto.exe
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\bin\Debug\net5.0\2-Arquivo_para_Objeto.deps.json
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\bin\Debug\net5.0\2-Arquivo_para_Objeto.runtimeconfig.json
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\bin\Debug\net5.0\2-Arquivo_para_Objeto.runtimeconfig.dev.json
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\bin\Debug\net5.0\2-Arquivo_para_Objeto.dll
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\bin\Debug\net5.0\ref\2-Arquivo_para_Objeto.dll
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\bin\Debug\net5.0\2-Arquivo_para_Objeto.pdb
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.csproj.AssemblyReference.cache
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.AssemblyInfoInputs.cache
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.AssemblyInfo.cs
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.dll
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\ref\2-Arquivo_para_Objeto.dll
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.pdb
+C:\Cursos\.NET\FileStream\2-Arquivo_para_Objeto\obj\Debug\net5.0\2-Arquivo_para_Objeto.genruntimeconfig.cache

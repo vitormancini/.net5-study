@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\bin\Debug\net5.0\4-CEP.exe
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\bin\Debug\net5.0\4-CEP.deps.json
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\bin\Debug\net5.0\4-CEP.runtimeconfig.json
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\bin\Debug\net5.0\4-CEP.runtimeconfig.dev.json
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\bin\Debug\net5.0\4-CEP.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\bin\Debug\net5.0\ref\4-CEP.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\bin\Debug\net5.0\4-CEP.pdb
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.AssemblyInfo.cs
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\ref\4-CEP.dll
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.pdb
+C:\Cursos\.NET\Validacoes CSharp Brasil\4-CEP\obj\Debug\net5.0\4-CEP.genruntimeconfig.cache

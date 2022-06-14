@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\bin\Debug\net5.0\3-Ordenar_Lista_Objetos.exe
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\bin\Debug\net5.0\3-Ordenar_Lista_Objetos.deps.json
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\bin\Debug\net5.0\3-Ordenar_Lista_Objetos.runtimeconfig.json
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\bin\Debug\net5.0\3-Ordenar_Lista_Objetos.runtimeconfig.dev.json
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\bin\Debug\net5.0\3-Ordenar_Lista_Objetos.dll
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\bin\Debug\net5.0\ref\3-Ordenar_Lista_Objetos.dll
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\bin\Debug\net5.0\3-Ordenar_Lista_Objetos.pdb
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.AssemblyInfo.cs
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.dll
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\ref\3-Ordenar_Lista_Objetos.dll
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.pdb
+C:\Cursos\.NET\Lista\3-Ordenar_Lista_Objetos\obj\Debug\net5.0\3-Ordenar_Lista_Objetos.genruntimeconfig.cache

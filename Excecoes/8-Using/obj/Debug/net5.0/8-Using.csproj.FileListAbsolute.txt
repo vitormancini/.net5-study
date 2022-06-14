@@ -1,0 +1,15 @@
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\bin\Debug\net5.0\8-Using.exe
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\bin\Debug\net5.0\8-Using.deps.json
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\bin\Debug\net5.0\8-Using.runtimeconfig.json
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\bin\Debug\net5.0\8-Using.runtimeconfig.dev.json
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\bin\Debug\net5.0\8-Using.dll
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\bin\Debug\net5.0\ref\8-Using.dll
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\bin\Debug\net5.0\8-Using.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\8-Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\8-Using.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\8-Using.AssemblyInfo.cs
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\8-Using.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\8-Using.dll
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\ref\8-Using.dll
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\8-Using.pdb
+C:\Cursos\.NET\Excecoes\Excecoes\8-Using\obj\Debug\net5.0\8-Using.genruntimeconfig.cache

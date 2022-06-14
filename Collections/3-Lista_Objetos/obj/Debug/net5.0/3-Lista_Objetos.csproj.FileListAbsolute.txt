@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Collections\3-Lista_Objetos\bin\Debug\net5.0\3-Lista_Objetos.exe
+C:\Cursos\.NET\Collections\3-Lista_Objetos\bin\Debug\net5.0\3-Lista_Objetos.deps.json
+C:\Cursos\.NET\Collections\3-Lista_Objetos\bin\Debug\net5.0\3-Lista_Objetos.runtimeconfig.json
+C:\Cursos\.NET\Collections\3-Lista_Objetos\bin\Debug\net5.0\3-Lista_Objetos.runtimeconfig.dev.json
+C:\Cursos\.NET\Collections\3-Lista_Objetos\bin\Debug\net5.0\3-Lista_Objetos.dll
+C:\Cursos\.NET\Collections\3-Lista_Objetos\bin\Debug\net5.0\ref\3-Lista_Objetos.dll
+C:\Cursos\.NET\Collections\3-Lista_Objetos\bin\Debug\net5.0\3-Lista_Objetos.pdb
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.AssemblyInfo.cs
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.dll
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\ref\3-Lista_Objetos.dll
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.pdb
+C:\Cursos\.NET\Collections\3-Lista_Objetos\obj\Debug\net5.0\3-Lista_Objetos.genruntimeconfig.cache

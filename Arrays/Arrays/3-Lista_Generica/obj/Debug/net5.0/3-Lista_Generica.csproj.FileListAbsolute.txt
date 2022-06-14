@@ -1,0 +1,16 @@
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\bin\Debug\net5.0\3-Lista_Generica.exe
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\bin\Debug\net5.0\3-Lista_Generica.deps.json
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\bin\Debug\net5.0\3-Lista_Generica.runtimeconfig.json
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\bin\Debug\net5.0\3-Lista_Generica.runtimeconfig.dev.json
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\bin\Debug\net5.0\3-Lista_Generica.dll
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\bin\Debug\net5.0\ref\3-Lista_Generica.dll
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\bin\Debug\net5.0\3-Lista_Generica.pdb
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.csproj.AssemblyReference.cache
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.AssemblyInfoInputs.cache
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.AssemblyInfo.cs
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.csproj.CoreCompileInputs.cache
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.dll
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\ref\3-Lista_Generica.dll
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.pdb
+C:\Cursos\.NET\Arrays\Arrays\3-Lista_Generica\obj\Debug\net5.0\3-Lista_Generica.genruntimeconfig.cache
